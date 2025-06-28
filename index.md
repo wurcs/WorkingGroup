@@ -10,6 +10,8 @@ Web3 Unique Representation of Carbohydrate Structures (WURCS) is a representatio
 
 ## [Documentation](https://github.com/glycoinfo/WURCS/wiki)
 
+## [Q&A](https://github.com/wurcs/WorkingGroup/issues/2)
+
 ## [Tips](tips.md)
 
 ## [Tools and Databases](/tools/)
